@@ -13,6 +13,7 @@ import java.util.Scanner;
  * pueden intercambiar cualquier flujo de datos, generalmente de manera fiable y ordenada.
  * 
  * Usa generalmente el protocolo TCP/IP
+ * 0
  */
 public class SocketCliente {
 	
