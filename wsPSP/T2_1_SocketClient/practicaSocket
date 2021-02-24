@@ -1,0 +1,17 @@
+Vamos a completar este ejemplo de sumas con todas las demas operaciones
+basicas, es decir, suma, resta, multiplicacion y division.
+
+La idea es que pidamos a nuestro usuario dos numeros y la operacion que queremos
+realizar.
+
+A continuacion deberemos mandar a nuestro servidor, los dos numeros y la operacion
+que queremos realizar.//NUMERO1-NUMERO2-CODIGO_OPERACION (1 sumar, 2 restar, 3 multiplicar 4 dividir)
+						//45-4-3 (queremos multiplicar 45 por 4)
+El servidor cogera dichos datos, debera de parsearlos y debera de hacer la operacion
+que corresponda.
+
+Por ultimo el servidor mandará la respuesta al cliente y este se la mostrará al 
+usuario final.
+
+Podria estar bien, que una vez que haya hecho la operacion, le pregunte al usuario
+final si quiere realizar otra operacion.
